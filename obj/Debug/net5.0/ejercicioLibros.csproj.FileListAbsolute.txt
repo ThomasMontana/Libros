@@ -1,0 +1,16 @@
+C:\Users\tom_t\Desktop\Curso\html nuevo prueba 1\clase c#\libros\ejercicioLibros\bin\Debug\net5.0\ejercicioLibros.exe
+C:\Users\tom_t\Desktop\Curso\html nuevo prueba 1\clase c#\libros\ejercicioLibros\bin\Debug\net5.0\ejercicioLibros.deps.json
+C:\Users\tom_t\Desktop\Curso\html nuevo prueba 1\clase c#\libros\ejercicioLibros\bin\Debug\net5.0\ejercicioLibros.runtimeconfig.json
+C:\Users\tom_t\Desktop\Curso\html nuevo prueba 1\clase c#\libros\ejercicioLibros\bin\Debug\net5.0\ejercicioLibros.runtimeconfig.dev.json
+C:\Users\tom_t\Desktop\Curso\html nuevo prueba 1\clase c#\libros\ejercicioLibros\bin\Debug\net5.0\ejercicioLibros.dll
+C:\Users\tom_t\Desktop\Curso\html nuevo prueba 1\clase c#\libros\ejercicioLibros\bin\Debug\net5.0\ref\ejercicioLibros.dll
+C:\Users\tom_t\Desktop\Curso\html nuevo prueba 1\clase c#\libros\ejercicioLibros\bin\Debug\net5.0\ejercicioLibros.pdb
+C:\Users\tom_t\Desktop\Curso\html nuevo prueba 1\clase c#\libros\ejercicioLibros\obj\Debug\net5.0\ejercicioLibros.csproj.AssemblyReference.cache
+C:\Users\tom_t\Desktop\Curso\html nuevo prueba 1\clase c#\libros\ejercicioLibros\obj\Debug\net5.0\ejercicioLibros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tom_t\Desktop\Curso\html nuevo prueba 1\clase c#\libros\ejercicioLibros\obj\Debug\net5.0\ejercicioLibros.AssemblyInfoInputs.cache
+C:\Users\tom_t\Desktop\Curso\html nuevo prueba 1\clase c#\libros\ejercicioLibros\obj\Debug\net5.0\ejercicioLibros.AssemblyInfo.cs
+C:\Users\tom_t\Desktop\Curso\html nuevo prueba 1\clase c#\libros\ejercicioLibros\obj\Debug\net5.0\ejercicioLibros.csproj.CoreCompileInputs.cache
+C:\Users\tom_t\Desktop\Curso\html nuevo prueba 1\clase c#\libros\ejercicioLibros\obj\Debug\net5.0\ejercicioLibros.dll
+C:\Users\tom_t\Desktop\Curso\html nuevo prueba 1\clase c#\libros\ejercicioLibros\obj\Debug\net5.0\ref\ejercicioLibros.dll
+C:\Users\tom_t\Desktop\Curso\html nuevo prueba 1\clase c#\libros\ejercicioLibros\obj\Debug\net5.0\ejercicioLibros.pdb
+C:\Users\tom_t\Desktop\Curso\html nuevo prueba 1\clase c#\libros\ejercicioLibros\obj\Debug\net5.0\ejercicioLibros.genruntimeconfig.cache
